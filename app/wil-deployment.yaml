@@ -34,5 +34,4 @@ spec:
       port: 8888
       targetPort: 8888
   type: LoadBalancer
-    ingress:
-      - ip: 127.0.0.1
+  
